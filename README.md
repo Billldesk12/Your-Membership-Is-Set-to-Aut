@@ -7,6 +7,6 @@ INVOICE :- FGY556-54BHJ
 TRANSACTION DATE :- 21-04-2026
 AMOUNT :- $467.98
 
-Help Line +1 (833) 436-8462  
+Help Line  
 
-You have 24 hours from the time of the transaction to dispute and stop this transaction. Call the TOLL-FREE number below to reach PayPal Support  +1 (833) 436-8462
+You have 24 hours from the time of the transaction to dispute and stop this transaction. Call the TOLL-FREE number below to reach PayPal Support
